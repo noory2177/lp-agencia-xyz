@@ -10,8 +10,8 @@ Este projeto é uma landing page desenvolvida para o desafio **DevQuestStarter**
 
 ## 🔗 Links
 
-- GitHub: <a href="https://github.com/slayer-br/lp-agencia-xyz" target="_blank" rel="noopener noreferrer">LandingPage Agência XYZ</a>
-- Site ao vivo: <a href="https://slayer-br.github.io/lp-agencia-xyz/" target="_blank" rel="noopener noreferrer">LandingPage Agência XYZ</a>
+- GitHub: <a href="https://github.com/slayer-br/lp-agencia-xyz" target="_blank" rel="noopener noreferrer">Landing Page Agência XYZ</a>
+- Site ao vivo: <a href="https://slayer-br.github.io/lp-agencia-xyz/" target="_blank" rel="noopener noreferrer">Landing Page Agência XYZ</a>
 
 ## 📂 Estrutura do Projeto
 
@@ -53,4 +53,4 @@ Este projeto é uma landing page desenvolvida para o desafio **DevQuestStarter**
 
 ## 📜 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a **Licença MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
