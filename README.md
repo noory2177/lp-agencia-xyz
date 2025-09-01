@@ -6,7 +6,7 @@ Este projeto é uma landing page desenvolvida para o desafio **DevQuestStarter**
 
 | 📱 Versão Mobile | 💻 Versão Desktop |
 |------------------|-------------------|
-| ![Mobile](./assets/images/x-men-mobile.gif) | ![Desktop](./assets/images/x-men-desktop.gif) |
+| ![Mobile](./src/images/landingpage-mobile.gif) | ![Desktop](./src/images/landingpage-desktop.gif) |
 
 ## 🔗 Links
 
