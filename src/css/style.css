@@ -1,0 +1,44 @@
+@import url('./reset.css');
+@import url('./variables.css');
+@import url('./header.css');
+@import url('./hero.css');
+@import url('./about.css');
+@import url('./services.css');
+@import url('./projects.css');
+@import url('./footer.css');
+@import url('./responsive.css');
+
+/* Typography */
+html {
+  font-size: 62.5%;
+}
+
+/* Body */
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  display: grid;
+  grid-template-areas:
+    "header"
+    "hero"
+    "about"
+    "services"
+    "projects"
+    "footer";
+  grid-template-columns: repeat(1, 1fr);
+  align-items: center;
+  justify-content: center;
+}
+
+/* Animation */
+@keyframes downarrow {
+  0% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  100% {
+    transform: translateY(0.4em);
+    opacity: 0.9;
+  }
+}

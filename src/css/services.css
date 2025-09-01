@@ -1,0 +1,38 @@
+/* Services */
+.services {
+  grid-area: services;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(2, 1fr);
+  text-align: center;
+}
+
+.services .service {
+  padding: 70px 20px;
+}
+
+.services .service:nth-child(1) {
+  background-color: var(--light-sky-blue);
+}
+
+.services .service:nth-child(2) {
+  background-color: var(--lightpink);
+}
+
+.services .service img {
+  width: 250px;
+  margin-bottom: 30px;
+}
+
+.services .service h3 {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.services .service p {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5rem;
+  max-width: 400px;
+  margin: 20px auto 0;
+}

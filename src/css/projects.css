@@ -1,0 +1,16 @@
+/* Projects */
+.projects {
+  grid-area: projects;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(4, 1fr);
+}
+
+.projects img {
+  height: 100%;
+  width: 100%;
+}
+
+.projects a:hover img {
+  opacity: 0.8;
+}

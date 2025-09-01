@@ -1,0 +1,99 @@
+/* Responsive */
+
+@media (min-width: 425px) {
+  .hero {
+    height: 90vh;
+  }
+  .hero h2 {
+    font-size: 3.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+    .hero h2 {
+    font-size: 4.5rem;
+  }
+  .about {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "item-1 image-right"
+      "image-left item-2";
+  }
+
+  .projects {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .footer nav ul {
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 900px) {
+  body {
+    grid-template-areas:
+      "header header header header"
+      "hero hero hero hero"
+      "about about about about"
+      "services services services services"
+      "projects projects projects projects"
+      "footer footer footer footer";
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .header .menu {
+    display: none;
+  }
+
+  .header .header-container {
+    justify-content: flex-start;
+    gap: 3rem;
+  }
+
+  .header nav {
+    top: -2px;
+  }
+
+  .header input:checked ~ ul {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .header nav ul {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+  }
+
+  .header nav ul a {
+    padding: 10px 15px;
+    font-size: 1.6rem;
+    text-align: left;
+  }
+
+  .services {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+  }
+}
+
+@media (min-width: 1200px) {
+  .projects {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+  }
+}
+
+
+@media (min-width: 1440px) {
+  .header .header-container {
+    padding: 2rem 10rem;
+  }
+}
+
+@media (min-width: 1920px) {
+  .header .header-container {
+    padding: 2rem 15rem;
+  }
+}
