@@ -31,7 +31,7 @@ Este projeto é uma landing page desenvolvida para o desafio **DevQuestStarter**
 
 1. Clone o repositório:
    ```sh
-   git clone <https://github.com/slayer-br/lp-agencia-xyz.git>
+   git clone https://github.com/slayer-br/lp-agencia-xyz.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
